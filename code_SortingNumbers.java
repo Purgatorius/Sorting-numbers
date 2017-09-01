@@ -15,7 +15,7 @@ public class SortingNumbers {
         a = scanner.nextInt();
         System.out.println("Number two is: ");
         b = scanner.nextInt();
-        System.out.println("And number three iiiss: ");
+        System.out.println("And number three is: ");
         c = scanner.nextInt();
 
         System.out.println("In ascending order it'll be that way: ");
